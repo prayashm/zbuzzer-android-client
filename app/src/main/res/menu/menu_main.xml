@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="in.zairza.zbuzzer.AboutActivity">
+    <item android:id="@+id/action_feedback" android:title="@string/feedback_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_about" android:title="@string/about_settings"
+        android:orderInCategory="101" app:showAsAction="never" />
+</menu>
