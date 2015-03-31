@@ -13,7 +13,7 @@ zBuzzer uses a number of open source projects to work properly:
 ## Installation
 
 ####Client
-Install the apk from app/app-release.apk on your phone
+Install the apk from app-release.apk to your phone
 
 ####Setup Server
 You need node.js
